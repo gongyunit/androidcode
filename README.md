@@ -4,7 +4,7 @@
 
 #所有zip包下载方法
 
-点击“androidcode**.zip” ，进入之后，点击Download按钮即可
+点击每一个“androidcode**.zip” ，进入之后，点击Download按钮即可
 
 #压缩包解压后的文件夹介绍：  
 
