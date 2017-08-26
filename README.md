@@ -1,10 +1,10 @@
-#androidcode.zip包含的内容  
+#androidcode包含的内容  
 
 这个版块里边包含：android基础，高级，常用第三方框架，高级第三方框架等技术的全部学习代码。 
 
-#androidcode.zip下载方法
+#所有zip包下载方法
 
-点击“androidcode.zip” ，进入之后，点击Download按钮即可
+点击“androidcode**.zip” ，进入之后，点击Download按钮即可
 
 #压缩包解压后的文件夹介绍：  
 
