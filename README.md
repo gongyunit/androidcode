@@ -4,7 +4,7 @@
 
 ### 所有zip包下载方法
 
-&emsp;&emsp;点击每一个“androidcode**.zip” ，进入之后，点击Download按钮即可。下载后，将其解压，把代码导入到androidstudio中即可。
+&emsp;&emsp;点击每一个“androidcode**.zip” ，进入之后，点击Download按钮。下载后，将其解压，把代码导入到androidstudio中即可。
 
 ### 如何获取以上代码的相关教程？
 
